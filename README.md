@@ -3,7 +3,7 @@
 ## Description
 Alexa skill where you can ask about food for your canine buddie.
 
-Alexa will respond 'yum' if the food is edible, 'limit' if it is best to limit concumption of this food or 'stay away' if the food is not edible for dogs.
+Alexa will respond 'yum' if the food is edible, 'limit' if it is best to limit consumption of this food or 'stay away' if the food is not edible for dogs.
 
 ## Build
 TBD
@@ -18,13 +18,13 @@ Alexa: "Welcome to buddie eats, where you can ask about foods for your canine bu
 
 Statement: "Tell me about popcorn"
 
-Alexa: "Yum. I browsed the web for you and according to Healthline dogs can eat popcorn"
+Alexa: "Yum. I browsed the web for you and according to Healthline dogs can eat plain popcorn"
 
 
 ## Use 2
 Statement: "Alexa, open buddie eats"
 
-Alexa: "Welcome to buddie eatss, where you can ask about foods for your canine buddie. You can say something like, can buddie eat carrots? Always speak to your vet before modifying your pet's diet... Now, what can I help you with?"
+Alexa: "Welcome to buddie eats, where you can ask about foods for your canine buddie. You can say something like, can buddie eat carrots? Always speak to your vet before modifying your pet's diet... Now, what can I help you with?"
 
 Statement: "Tell me more on spinach"
 
